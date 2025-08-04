@@ -1,4 +1,4 @@
-5263053940234
+13613580990527
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -92399,6 +92399,41 @@ WiFi IEEE802.11 b/g/n
 0
 44
 44
+RP2350_60QFN_minimal
+C_0402_1005Metric_small_pads
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+RP2350_60QFN_minimal
+Crystal_SMD_HC49-US
+SMD Crystal HC-49-SD http://cdn-reichelt.de/documents/datenblatt/B400/xxx-HC49-SMD.pdf, 11.4x4.7mm^2 package
+SMD SMT crystal
+0
+2
+2
+RP2350_60QFN_minimal
+L_pol_2016
+Inductor with Polarity Marking 2016
+
+0
+2
+2
+RP2350_60QFN_minimal
+RP2350-QFN-60-1EP_7x7_P0.4mm_EP3.4x3.4mm_ThermalVias
+Raspberry Pi RP2350 QFN-60
+QFN DFN_QFN
+0
+74
+61
+RP2350_60QFN_minimal
+USB_Micro-B_Amphenol_10103594-0001LF_Horizontal_modified
+Micro USB Type B 10103594-0001LF, http://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10103594.pdf
+USB USB_B USB_micro USB_OTG
+0
+17
+6
 Relay_SMD
 Relay_2P2T_10x6mm_TE_IMxxG
 Signal Relay, 10x6mm, 2 Form C, Gull Wings, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F108-98001%7FZ.1%7Fpdf%7FEnglish%7FENG_DS_108-98001_Z.1.pdf
