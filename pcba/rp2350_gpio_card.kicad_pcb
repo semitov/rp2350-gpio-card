@@ -32514,19 +32514,6 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "{dblquote}Yes, it's pink{dblquote}"
-		(at 104.4 59.75 0)
-		(layer "B.SilkS")
-		(uuid "9f5bf4b0-f447-489a-9f3e-cdb5e758d0b6")
-		(effects
-			(font
-				(size 0.5842 0.5842)
-				(thickness 0.1016)
-				(bold yes)
-			)
-			(justify left bottom mirror)
-		)
-	)
 	(gr_text "28"
 		(at 110.95 79.65 0)
 		(layer "B.SilkS")

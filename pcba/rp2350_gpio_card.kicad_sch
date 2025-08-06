@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "RP2350 GPIO Card V1.2.1")
-		(date "2020-12-12")
+		(date "2025-08-06")
 		(rev "X1")
 		(company "SemiTO-V Student Team, Polytechnic University of Turin")
 		(comment 1 "This work is licensed under a Creative Commons Attribution 4.0 International License")
