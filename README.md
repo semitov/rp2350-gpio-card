@@ -3,4 +3,5 @@ Expansion Card circuit based on RP2350 for Framework mainboards providing GPIO t
 ![RP2350 GPIO Card prototype render](rp2350gpiocard-v121.png)
 
 # License
+Designed by: [Tan Siret Akıncı](https://github.com/tansiret).
 Schematics and footprint are licensed with [CC BY 4.0](LICENSE).
