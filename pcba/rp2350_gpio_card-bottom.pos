@@ -1,0 +1,7 @@
+### Footprint positions - created on 2025-08-08T17:30:50+0300 ###
+### Printed by KiCad version 9.0.3
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val             Package                                          PosX       PosY       Rot  Side
+J1        Conn_01x10_Pin  Harwin_M20-89010xx_1x10_P2.54mm_Horizontal   101.0750   -88.5750  -90.0000  bottom
+## End

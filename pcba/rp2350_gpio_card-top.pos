@@ -1,0 +1,39 @@
+### Footprint positions - created on 2025-08-08T17:30:50+0300 ###
+### Printed by KiCad version 9.0.3
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                Package                                                    PosX       PosY       Rot  Side
+C1        4.7u               C_0402_1005Metric_small_pads                            90.2250   -67.8500   90.0000  top
+C2        10u                C_0805_2012Metric                                      108.3250   -59.6000    0.0000  top
+C3        4.7u               C_0402_1005Metric_small_pads                            92.8650   -67.3500   90.0000  top
+C4        100n               C_0402_1005Metric                                      107.5250   -62.9500   90.0000  top
+C5        4.7u               C_0402_1005Metric                                       95.3250   -64.1000   90.0000  top
+C6        4.7u               C_0402_1005Metric                                      106.5250   -62.9500   90.0000  top
+C7        100n               C_0402_1005Metric                                      105.5250   -62.9500   90.0000  top
+C8        100n               C_0402_1005Metric                                       98.7500   -70.5500  -90.0000  top
+C9        100n               C_0402_1005Metric                                      100.4250   -64.0500  180.0000  top
+C10       100n               C_0402_1005Metric                                      106.0750   -64.5000    0.0000  top
+C12       100n               C_0402_1005Metric                                      111.5800   -70.8500    0.0000  top
+C13       100n               C_0402_1005Metric                                      109.9750   -78.5500   90.0000  top
+C14       100n               C_0402_1005Metric                                      101.0750   -62.9000  180.0000  top
+C15       15p                C_0402_1005Metric                                      111.7550   -60.9000   90.0000  top
+C16       15p                C_0402_1005Metric                                      111.4050   -66.8100    0.0000  top
+C17       100n               C_0402_1005Metric                                       95.2750   -68.9500    0.0000  top
+C19       10u                C_0805_2012Metric                                       91.5750   -56.9500   90.0000  top
+C21       10u                C_0805_2012Metric                                       93.5250   -61.3500   90.0000  top
+J2        Conn_01x10_Pin     Harwin_M20-89010xx_1x10_P2.54mm_Horizontal             101.0750   -88.5750  -90.0000  top
+L1        3.3u               L_pol_2016                                              95.0450   -67.1600   90.0000  top
+P1        USB_C_Plug_USB2.0  USB_C_Plug_Molex_105444                                101.0750   -57.0000    0.0000  top
+R1        33                 R_0402_1005Metric                                       93.0250   -64.6000    0.0000  top
+R2        27                 R_0402_1005Metric                                       98.0250   -68.9500    0.0000  top
+R3        27                 R_0402_1005Metric                                       98.0250   -67.9000    0.0000  top
+R4        5.1k               R_0603_1608Metric                                       97.2250   -60.4000  180.0000  top
+R5        DNF                R_0402_1005Metric                                       93.0750   -68.9500  180.0000  top
+R6        0                  R_0402_1005Metric                                       99.4750   -75.4000  -90.0000  top
+R7        DNF                R_0402_1005Metric                                      101.5250   -75.3500  -90.0000  top
+R8        1k                 R_0402_1005Metric                                      109.9750   -67.7500   90.0000  top
+U1        RP2350_60QFN       RP2350-QFN-60-1EP_7x7_P0.4mm_EP3.4x3.4mm_ThermalVias   104.2750   -69.6500   90.0000  top
+U2        W25Q128JVS         WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm                    95.5250   -72.8500   90.0000  top
+U4        AP2127K-3.3        SOT-23-5                                                90.6375   -61.2000  -90.0000  top
+Y1        ABM8-272-T3        Crystal_SMD_3225-4Pin_3.2x2.5mm                        110.6550   -64.4300  180.0000  top
+## End

@@ -536,7 +536,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "rp2350_gpio_card.net",
-      "plot": "",
+      "plot": "gerber/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
