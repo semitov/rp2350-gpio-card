@@ -5,4 +5,4 @@ Expansion Card circuit based on RP2350 for Framework mainboards providing GPIO t
 # License
 Designed by: [Tan Siret Akıncı](https://github.com/tansiret).
 Schematics and footprint are licensed with [CC BY 4.0](LICENSE).
-Copyright Politecnico di Torino.
+Politecnico di Torino logo used in this project is © 2025 Politecnico di Torino. It is included here with permission. Please do not use the logo without prior consent from Politecnico di Torino.
