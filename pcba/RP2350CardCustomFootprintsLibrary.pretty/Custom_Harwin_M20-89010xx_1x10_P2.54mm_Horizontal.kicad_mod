@@ -1,0 +1,300 @@
+(footprint "Custom_Harwin_M20-89010xx_1x10_P2.54mm_Horizontal"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Harwin Male Horizontal Surface Mount Single Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-89010xx, 10 Pins per row (https://cdn.harwin.com/pdfs/M20-890.pdf), generated with kicad-footprint-generator")
+	(tags "connector Harwin M20-890 horizontal")
+	(property "Reference" "J2"
+		(at -5.05 -10.225 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "5fefc4e4-00d5-4f06-8e21-024c490658ba")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Conn_01x10_Pin"
+		(at -8.7 0 270)
+		(layer "F.Fab")
+		(uuid "0e0d1724-86e8-492d-975f-057b567fbe3c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "~"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "beeb0b97-0dbf-4919-a86a-7eecdf35e8fe")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Generic connector, single row, 01x10, script generated"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "806fb5db-d68c-4b7a-8f5d-28430f7ccb17")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_poly
+		(pts
+			(xy -5.525 -12.25) (xy -5.865 -12.72) (xy -5.185 -12.72)
+		)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "a7c8a5c9-3e04-411b-be56-649d6f60bbc1")
+	)
+	(fp_line
+		(start -7.28 -13.2)
+		(end -3.5 -13.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6d4f9471-1879-4121-ada3-82e8f95d3ab1")
+	)
+	(fp_line
+		(start -7.28 -13.2)
+		(end -3.5 -13.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6d4f9471-1879-4121-ada3-82e8f95d3ab1")
+	)
+	(fp_line
+		(start -7.28 13.2)
+		(end -7.28 -13.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "44262639-d58a-452d-a104-55d003f26e66")
+	)
+	(fp_line
+		(start -7.28 13.2)
+		(end -3.5 13.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4e1dfbeb-61b0-4c21-bfe5-a40c4c7fcbd3")
+	)
+	(fp_line
+		(start -3.5 13.2)
+		(end -3.5 -13.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d9b407b8-4a13-4dc8-ac72-3ae12a338432")
+	)
+	(fp_line
+		(start -6.425 -11.75)
+		(end -6.425 -11.11)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b282f20b-82a2-40dd-87e2-a8d73e5c6ad6")
+	)
+	(fp_line
+		(start -6.425 -9.21)
+		(end -6.425 -8.57)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f92b7bc3-6d69-44ef-a6ac-e8a5291698fe")
+	)
+	(fp_line
+		(start -6.425 -6.67)
+		(end -6.425 -6.03)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "184c7c17-987d-4dc1-8465-5b9ef1babaf1")
+	)
+	(fp_line
+		(start -6.425 -4.13)
+		(end -6.425 -3.49)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ef808555-0fc9-45e0-a8f7-5d091d01ed43")
+	)
+	(fp_line
+		(start -6.425 -1.59)
+		(end -6.425 -0.95)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0a7fb7e8-9657-42eb-82c5-a29fa723c8f2")
+	)
+	(fp_line
+		(start -6.425 0.95)
+		(end -6.425 1.59)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0c9b6694-dc0d-4b93-971d-da1f065fc4cf")
+	)
+	(fp_line
+		(start -6.425 3.49)
+		(end -6.425 4.13)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e385661b-0486-443c-b127-3d2f7127d9ad")
+	)
+	(fp_line
+		(start -6.425 6.03)
+		(end -6.425 6.67)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f924d028-01e6-445c-b4b8-d02a786ddaf8")
+	)
+	(fp_line
+		(start -6.425 8.57)
+		(end -6.425 9.21)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5442018f-6f0d-4c8c-9e61-566100d28cb8")
+	)
+	(fp_line
+		(start -6.425 11.11)
+		(end -6.425 11.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "82eb8834-0d08-432b-9768-799e649a47d2")
+	)
+	(pad "1" smd roundrect
+		(at -5.525 -11.43)
+		(size 2.5 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "ef6a0198-6205-420a-80f6-41da4b961fdb")
+	)
+	(pad "2" smd roundrect
+		(at -5.525 -8.89)
+		(size 2.5 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "94ac28f3-1150-4552-ab78-83ed326488bc")
+	)
+	(pad "3" smd roundrect
+		(at -5.525 -6.35)
+		(size 2.5 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "b79a9c51-2a9d-4721-ad1f-a1d47eddb1a6")
+	)
+	(pad "4" smd roundrect
+		(at -5.525 -3.81)
+		(size 2.5 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "bceb1c8b-3bb5-4568-b272-8e909e660246")
+	)
+	(pad "5" smd roundrect
+		(at -5.525 -1.27)
+		(size 2.5 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "e135e788-59bf-43ea-8d02-7de09d1f9cd8")
+	)
+	(pad "6" smd roundrect
+		(at -5.525 1.27)
+		(size 2.5 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "7c6cc375-b28f-410c-bce4-13784602001f")
+	)
+	(pad "7" smd roundrect
+		(at -5.525 3.81)
+		(size 2.5 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "9c736659-c9c6-4e86-ad8c-bd67b59200bb")
+	)
+	(pad "8" smd roundrect
+		(at -5.525 6.35)
+		(size 2.5 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "d480dded-283d-42a6-b2e6-c9bb5e3fec37")
+	)
+	(pad "9" smd roundrect
+		(at -5.525 8.89)
+		(size 2.5 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "1d29c002-84a5-49e0-ad5f-7e5d0de08ab2")
+	)
+	(pad "10" smd roundrect
+		(at -5.525 11.43)
+		(size 2.5 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "90451acf-5b58-4469-9890-1445a61cb8f1")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Connector_Harwin.3dshapes/Harwin_M20-89010xx_1x10_P2.54mm_Horizontal.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
