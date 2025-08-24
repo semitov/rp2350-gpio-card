@@ -1760,7 +1760,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R5"
-			(at -2.1 0 90)
+			(at 1.9 0 90)
 			(layer "F.SilkS")
 			(uuid "15f91bd6-5a92-498c-98d3-f60059bb6f69")
 			(effects
@@ -2896,7 +2896,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C17"
-			(at 1.45 -0.85 0)
+			(at 0.2 1.1 90)
 			(layer "F.SilkS")
 			(uuid "ce889d66-2a88-4871-8274-9a97671f7ffc")
 			(effects
@@ -3638,7 +3638,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C3"
-			(at 0.15 -1.02 0)
+			(at 0.115 -1.2 0)
 			(layer "F.SilkS")
 			(uuid "9de03d29-1b25-48f6-802a-c8ac7402fcfa")
 			(effects
@@ -3815,7 +3815,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C5"
-			(at 0.5 -1.2 90)
+			(at 0 1.1 90)
 			(layer "F.SilkS")
 			(uuid "a65e8b5f-8121-4e55-88e7-3fa7de03eb3d")
 			(effects
@@ -4213,7 +4213,7 @@
 		(descr "SOT, 5 Pin (JEDEC MO-178 Var AA https://www.jedec.org/document_search?search_api_views_fulltext=MO-178), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "U4"
-			(at 2.65 -0.0875 180)
+			(at -1.846434 1.317683 180)
 			(layer "F.SilkS")
 			(uuid "fc1165d9-debc-4b8e-80a5-c433b3a3aca1")
 			(effects
@@ -4566,7 +4566,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R1"
-			(at 0.148458 -1.126434 0)
+			(at 0 1.1 0)
 			(layer "F.SilkS")
 			(uuid "527b4269-7283-4a13-be0a-21aa511fd14c")
 			(effects
@@ -4765,7 +4765,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R7"
-			(at 0 -1.17 0)
+			(at -0.1 1.2 0)
 			(layer "F.SilkS")
 			(uuid "355e1973-70c5-4c70-9452-862c5597f15f")
 			(effects
@@ -5561,7 +5561,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C12"
-			(at 1.575 -1.15 0)
+			(at 0.739817 -1.196434 0)
 			(layer "F.SilkS")
 			(uuid "fb85244d-0657-4a41-85d1-1da97e16ee28")
 			(effects
@@ -6920,7 +6920,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R6"
-			(at 0 -1.52 0)
+			(at -0.09 -1.2 0)
 			(layer "F.SilkS")
 			(uuid "53d896f8-e4aa-40e1-ae61-024023d50f5c")
 			(effects
