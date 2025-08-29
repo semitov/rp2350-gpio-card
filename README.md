@@ -36,7 +36,7 @@ Expansion Card circuit based on RP2350 for Framework mainboards providing GPIO t
 Designed by: [Tan Siret Akıncı](https://github.com/tansiret).
 Schematics and footprint are licensed with [CC BY 4.0](LICENSE).
 Politecnico di Torino name used in this project is © 2025 Politecnico di Torino.
-The project has been certified by OSHW as Open Source Hardware (UID: [IT000024](https://certification.oshwa.org/it000024.html)).
+The project has been certified by [OSHWA](https://oshwa.org/) as Open Source Hardware (UID: [IT000024](https://certification.oshwa.org/it000024.html)).
 </br>
 <a href="https://certification.oshwa.org/it000024.html">
    <img src="IT000024.svg" alt="image" style="width:200px;height:auto;">
