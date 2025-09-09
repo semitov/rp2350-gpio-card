@@ -9516,7 +9516,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Harwin:Harwin_M20-89010xx_1x10_P2.54mm_Horizontal"
+		(property "Footprint" "RP2350CardCustomFootprintsLibrary:Custom_Harwin_M20-89010xx_1x10_P2.54mm_Horizontal"
 			(at 190.5 114.3 0)
 			(effects
 				(font
@@ -9672,7 +9672,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Harwin:Harwin_M20-89010xx_1x10_P2.54mm_Horizontal"
+		(property "Footprint" "RP2350CardCustomFootprintsLibrary:Custom_Harwin_M20-89010xx_1x10_P2.54mm_Horizontal"
 			(at 190.5 144.78 0)
 			(effects
 				(font

@@ -1,0 +1,20 @@
+﻿reference,value,footprint,MPN,manufacturer,Category,SKU,price,quantity
+"C1,C3",4.7u,C_0402_1005Metric_small_pads,06036D475MAT2A,Kyocera,Ceramic Capacitors,-,-,2
+"C5,C6",4.7u,C_0402_1005Metric,06036D475MAT2A,Kyocera,Ceramic Capacitors,-,-,2
+"C9,C10,C17,C8,C12,C4,C7,C13,C14",100n,C_0402_1005Metric,06035L104K4T2A,Kyocera,Ceramic Capacitors,1009753559,0.02977,9
+"C15,C16",15p,C_0402_1005Metric,VJ0603A150JXBAP,Vishay,Ceramic Capacitors,-,-,2
+"C19,C2,C21",10u,C_0805_2012Metric,UMK325BJ106KM-T,Taiyo Yuden,Ceramic Capacitors,2500324717,0.13001,3
+"H1,H2",MountingHole,MountingHole_2.2mm_M2,,,,,,2
+"J2,J1",Conn_01x10_Pin,Custom_Harwin_M20-89010xx_1x10_P2.54mm_Horizontal,DNP ! DO NOT PLACE,,,-,-,-
+L1,3.3u,L_pol_2016,B32926C3335M000,TDK,Capacitors,-,-,1
+P1,USB_C_Plug_USB2.0,USB_C_Plug_Molex_105444,USB2.0-AB06,Panasonic,Tools and Supplies,-,-,1
+R1,33,R_0402_1005Metric,XF2M-3315-1A,Omron,FFC / FPC,1027849864,0.39157,1
+"R3,R2",27,R_0402_1005Metric,2-84953-7,TE Connectivity (Tyco Electronics),FFC / FPC,-,-,2
+R4,5.1k,R_0603_1608Metric,CRCW04025K10JNED,Vishay,Chip SMD Resistors,1007326799,0.00657,1
+"R5,R7",DNF,R_0402_1005Metric,STS4DNF60L,STMicroelectronics,MOSFETs,1018687185,0.28249,2
+R6,0,R_0402_1005Metric,CR0603-J/-000ELF,Bourns,Chip SMD Resistors,-,-,1
+R8,1k,R_0402_1005Metric,CR1206-FX-1001ELF,Bourns,Chip SMD Resistors,1002726470,0.01646,1
+U1,RP2350_60QFN,RP2350-QFN-60-1EP_7x7_P0.4mm_EP3.4x3.4mm_ThermalVias,RP2350A,Raspberry Pi,Chip Microcontrollers,,,1
+U2,W25Q128JVS,WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm,W25Q128JVSIQ,Winbond Electronics,FLASH,1003909429,1.24697,1
+U4,AP2127K-3.3,SOT-23-5,AP2127K-1.8TRG1,Diodes,"Linear Voltage Regulators, LDO",2500317187,0.12386,1
+Y1,ABM8-272-T3,Crystal_SMD_3225-4Pin_3.2x2.5mm,RDE5C1H272J0S1H03A,Murata,Ceramic Capacitors,-,-,1

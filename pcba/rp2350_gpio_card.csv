@@ -4,7 +4,7 @@
 "C4,C7,C8,C9,C10,C12,C13,C14,C17","9","100n","","","","Capacitor_SMD:C_0402_1005Metric","~"
 "C5,C6","2","4.7u","","","","Capacitor_SMD:C_0402_1005Metric","~"
 "C15,C16","2","15p","","","","Capacitor_SMD:C_0402_1005Metric","~"
-"J1,J2","2","Conn_01x10_Pin","","","","Connector_Harwin:Harwin_M20-89010xx_1x10_P2.54mm_Horizontal","~"
+"J1,J2","2","Conn_01x10_Pin","","","","RP2350CardCustomFootprintsLibrary:Custom_Harwin_M20-89010xx_1x10_P2.54mm_Horizontal","~"
 "L1","1","3.3u","","","","RP2350_60QFN_minimal:L_pol_2016","~"
 "P1","1","USB_C_Plug_USB2.0","","","","Expansion_Card:USB_C_Plug_Molex_105444","https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
 "R1","1","33","","","","Resistor_SMD:R_0402_1005Metric","~"
