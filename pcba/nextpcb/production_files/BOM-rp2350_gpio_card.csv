@@ -1,14 +1,20 @@
 MPN,Qty,Designator,value,manufacturer,Category,SKU,Customer Supply,Customer Remark
-,2,"C1,C3",4.7u,,,
-,13,"C9,C10,C17,C8,C5,C15,C12,C4,C6,C7,C13,C14,C16",100n,,,
-,3,"C19,C2,C21",10u,,,
+06036D475MAT2A,2,"C1,C3",4.7u,Kyocera,Ceramic Capacitors,-
+06036D475MAT2A,2,"C5,C6",4.7u,Kyocera,Ceramic Capacitors,-
+06035L104K4T2A,9,"C9,C10,C17,C8,C12,C4,C7,C13,C14",100n,Kyocera,Ceramic Capacitors,1009753559
+VJ0603A150JXBAP,2,"C15,C16",15p,Vishay,Ceramic Capacitors,-
+UMK325BJ106KM-T,3,"C19,C2,C21",10u,Taiyo Yuden,Ceramic Capacitors,2500324717
 ,2,"H1,H2",MountingHole,,,
-,2,"J2,J1",Conn_01x10_Pin,,,
-,1,L1,3.3u,,,
-,1,P1,USB_C_Plug_USB2.0,,,
-,1,R4,5.1k,,,
-,7,"R8,R5,R3,R1,R7,R2,R6",1k,,,
+4610X-101-561LF,2,"J2,J1",Conn_01x10_Pin,Bourns,Resistor Arrays,-
+B32926C3335M000,1,L1,3.3u,TDK,Capacitors,-
+USB2.0-AB06,1,P1,USB_C_Plug_USB2.0,Panasonic,Tools and Supplies,-
+XF2M-3315-1A,1,R1,33,Omron,FFC / FPC,1027849864
+2-84953-7,2,"R3,R2",27,TE Connectivity (Tyco Electronics),FFC / FPC,-
+CRCW04025K10JNED,1,R4,5.1k,Vishay,Chip SMD Resistors,1007326799
+STS4DNF60L,2,"R5,R7",DNF,STMicroelectronics,MOSFETs,1018687185
+CR0603-J/-000ELF,1,R6,0,Bourns,Chip SMD Resistors,-
+CR1206-FX-1001ELF,1,R8,1k,Bourns,Chip SMD Resistors,1002726470
 ,1,U1,RP2350_60QFN,,,
-,1,U2,W25Q128JVS,,,
-,1,U4,AP2127K-3.3,,,
-,1,Y1,ABM8-272-T3,,,
+W25Q128JVSIQ,1,U2,W25Q128JVS,Winbond Electronics,FLASH,1003909429
+AP2127K-1.8TRG1,1,U4,AP2127K-3.3,Diodes,"Linear Voltage Regulators, LDO",2500317187
+RDE5C1H272J0S1H03A,1,Y1,ABM8-272-T3,Murata,Ceramic Capacitors,-
