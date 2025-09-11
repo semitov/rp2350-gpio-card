@@ -516,7 +516,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "rp2350_gpio_card.net",
-      "plot": "gerber2/",
+      "plot": "gerber4/",
       "pos_files": "/home/tan/Documents/LAB-HOBBY/LAB-PCB/rp2350-gpio-card/pcba/nextpcbcentroid/",
       "specctra_dsn": "",
       "step": "",
