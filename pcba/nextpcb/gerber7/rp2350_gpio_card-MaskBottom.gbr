@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,9.0.4*%
-%TF.CreationDate,2025-09-18T11:34:16+02:00*%
+%TF.CreationDate,2025-09-18T12:16:13+02:00*%
 %TF.ProjectId,rp2350_gpio_card,72703233-3530-45f6-9770-696f5f636172,X1*%
 %TF.SameCoordinates,Original*%
-%TF.FileFunction,Paste,Bot*%
-%TF.FilePolarity,Positive*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 9.0.4) date 2025-09-18 11:34:16*
+G04 Created by KiCad (PCBNEW 9.0.4) date 2025-09-18 12:16:13*
 %MOMM*%
 %LPD*%
 G01*
@@ -31,7 +31,8 @@ G04 Aperture macros list*
 G04 Aperture macros list end*
 %ADD10R,0.380000X1.000000*%
 %ADD11R,0.700000X1.150000*%
-%ADD12RoundRect,0.250000X-0.250000X1.000000X-0.250000X-1.000000X0.250000X-1.000000X0.250000X1.000000X0*%
+%ADD12C,2.200000*%
+%ADD13RoundRect,0.250000X-0.250000X1.000000X-0.250000X-1.000000X0.250000X-1.000000X0.250000X1.000000X0*%
 G04 APERTURE END LIST*
 D10*
 %TO.C,P1*%
@@ -49,6 +50,13 @@ D11*
 X106975183Y-55026434D03*
 %TD*%
 D12*
+%TO.C,H1*%
+X92255183Y-71646434D03*
+%TD*%
+%TO.C,H2*%
+X114855183Y-71646434D03*
+%TD*%
+D13*
 %TO.C,J1*%
 X92125183Y-79600000D03*
 X94665183Y-79600000D03*
