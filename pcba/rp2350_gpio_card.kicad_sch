@@ -7247,16 +7247,6 @@
 		)
 		(uuid "502222f4-2c00-4589-8397-87d8da934940")
 	)
-	(label "GPIO0"
-		(at 175.26 132.08 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "52316df3-5083-412f-b477-81b89f4c8d85")
-	)
 	(label "RUN"
 		(at 54.61 125.73 0)
 		(effects
@@ -7397,6 +7387,16 @@
 		)
 		(uuid "8016ce3a-37ed-4201-9ca0-98812942eb19")
 	)
+	(label "QSPI_SS"
+		(at 175.26 132.08 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "837ffc2e-2149-4417-8dd2-0f885d349332")
+	)
 	(label "QSPI_SD2"
 		(at 254 102.87 0)
 		(effects
@@ -7426,6 +7426,16 @@
 			(justify right bottom)
 		)
 		(uuid "9a5254dc-8b77-4032-9cca-516148692585")
+	)
+	(label "GPIO0"
+		(at 175.26 124.46 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "9c109aa5-98aa-41fa-9b17-5d2612552f6f")
 	)
 	(label "QSPI_SD0"
 		(at 54.61 87.63 0)
@@ -7696,16 +7706,6 @@
 			(justify right bottom)
 		)
 		(uuid "f4ac3bcb-8907-4245-8d1c-f7a04d30a11d")
-	)
-	(label "QSPI_SS"
-		(at 175.26 124.46 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "f4f557e9-f028-4632-ab10-e9d5d6730e64")
 	)
 	(label "GPIO9"
 		(at 147.32 95.25 180)
