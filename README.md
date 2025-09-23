@@ -1,9 +1,16 @@
 # rp2350-gpio-card
 Expansion Card circuit based on RP2350 for Framework mainboards providing GPIO to the computer. Circuit is based on [Expansion Card template](https://github.com/FrameworkComputer/ExpansionCards) and [RP2350A Minimal board](https://datasheets.raspberrypi.com/rp2350/hardware-design-with-rp2350.pdf). Designed in [KiCad](https://www.kicad.org/).
+
+## Gallery
+* Render of card with Molex 1054440011 (Framework template)
 ![RP2350 GPIO Card prototype render](rp2350gpiocard-front.png)
 ![RP2350 GPIO Card prototype render](rp2350gpiocard-back.png)
 
-# GPIO
+* Render of card with TYPEC-950-ARP24 (NextPCB template)
+![RP2350 GPIO Card prototype render](rp2350gpiocard-front-2.png)
+![RP2350 GPIO Card prototype render](rp2350gpiocard-back-2.png)
+
+## GPIO
 ### Front
 | Label | Name   | SPI       | UART       | I2C        | ADC |
 | :---- | :----- | :-------- | :--------- | :--------- | :-- |
@@ -32,7 +39,7 @@ Expansion Card circuit based on RP2350 for Framework mainboards providing GPIO t
 | 9     | GPIO9  | SPI1 CSn  | UART1 RX   | I2C0 SCL   |       |
 | B     | Boot   |           |            |            |       |
 
-# License
+## License
 Designed by: [Tan Siret Akıncı](https://github.com/tansiret).
 Schematics and footprint are licensed with [CC BY 4.0](LICENSE).
 Politecnico di Torino name used in this project is © 2025 Politecnico di Torino. The project is sponsored by © 2025 [DeepComputing](https://deepcomputing.io/) and © 2025 [NextPCB](https://www.nextpcb.com/).
