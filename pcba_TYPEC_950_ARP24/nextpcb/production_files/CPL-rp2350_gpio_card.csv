@@ -20,7 +20,7 @@ C21,10u,C_0805_2012Metric,92.6,-62.15,-90.0,top
 J1,Conn_01x10_Pin,Custom_Harwin_M20-89010xx_1x10_P2.54mm_Horizontal,103.555183,-85.125,270.0,bottom
 J2,Conn_01x10_Pin,Custom_Harwin_M20-89010xx_1x10_P2.54mm_Horizontal,103.555183,-85.125,-90.0,top
 L1,3.3u,L_pol_2016,96.708211,-62.85,90.0,top
-P1,USB_C_Plug_USB2.0,USB_C_Plug_Molex_105444,103.6,-46.88275,180.0,top
+P1,USB_C_Plug_USB2.0,USB_C_Plug_Molex_105444,103.5,-48.79025,180.0,top
 R1,33,R_0402_1005Metric,99.3,-60.86,0.0,top
 R2,27,R_0402_1005Metric,99.1,-65.7,0.0,top
 R3,27,R_0402_1005Metric,99.1,-64.75,0.0,top
